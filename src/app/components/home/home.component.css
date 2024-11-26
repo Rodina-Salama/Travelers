@@ -17,6 +17,7 @@ body {
 .hero-section {
   position: relative;
   height: 100vh;
+  background-color: #3c5a3c;
 }
 
 .img-cover {
@@ -42,6 +43,7 @@ background-color: #3c5a3c;
   max-width: 600px;
   left: 7%;
   color: var(--main-color);
+  background-color: #3c5a3c;
 }
 
 .date {
