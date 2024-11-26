@@ -19,7 +19,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("/images/img44.png");
+  /* background-image: url("/images/img44.png"); */
+  background-color: #e73c42;
   background-size: cover;
   background-position: center;
   position: relative;
